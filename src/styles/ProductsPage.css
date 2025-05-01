@@ -1,0 +1,13 @@
+.products-page {
+    padding: 40px 0;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .products-page h1 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 30px;
+  }
+  
